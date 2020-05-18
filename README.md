@@ -1,2 +1,2 @@
 # SPOJ
-Resoluciones de problemas (SPOJ)
+Resolucao de problemas do SPOJ
